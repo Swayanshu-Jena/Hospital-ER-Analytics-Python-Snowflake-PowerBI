@@ -1,0 +1,1001 @@
+patient_id,age,gender,blood_group,pre_existing_condition
+P00001,48,Other,B-,Diabetes
+P00002,83,Other,A-,None
+P00003,75,Female,AB-,Asthma
+P00004,39,Female,AB-,None
+P00005,21,Male,AB+,Diabetes
+P00006,57,Other,B+,Heart Disease
+P00007,10,Female,AB-,Asthma
+P00008,39,Male,O+,None
+P00009,86,Female,A+,None
+P00010,32,Male,A+,Diabetes
+P00011,83,Female,B+,None
+P00012,76,Female,AB+,None
+P00013,62,Female,AB-,None
+P00014,44,Female,A+,None
+P00015,63,Female,B+,None
+P00016,87,Male,AB+,Diabetes
+P00017,26,Female,A-,Heart Disease
+P00018,5,Male,O+,None
+P00019,26,Female,O-,None
+P00020,90,Female,B+,None
+P00021,78,Female,AB-,None
+P00022,76,Other,A-,Asthma
+P00023,25,Female,A-,Heart Disease
+P00024,37,Female,B-,Hypertension
+P00025,57,Other,A-,Hypertension
+P00026,4,Female,B+,Heart Disease
+P00027,33,Other,AB-,None
+P00028,95,Other,AB-,None
+P00029,27,Male,B-,None
+P00030,44,Female,A+,None
+P00031,88,Female,A-,None
+P00032,35,Other,B-,None
+P00033,74,Female,A+,Heart Disease
+P00034,44,Male,O-,Asthma
+P00035,86,Female,B+,None
+P00036,4,Male,B+,Hypertension
+P00037,74,Female,AB-,None
+P00038,26,Other,A-,None
+P00039,30,Other,B-,Diabetes
+P00040,25,Male,A+,Diabetes
+P00041,86,Female,O+,Hypertension
+P00042,94,Male,A-,Diabetes
+P00043,27,Other,A+,None
+P00044,30,Other,AB-,Hypertension
+P00045,89,Female,O-,None
+P00046,73,Other,O+,None
+P00047,65,Male,A-,None
+P00048,71,Other,O-,Diabetes
+P00049,88,Female,A+,Heart Disease
+P00050,33,Other,AB+,Heart Disease
+P00051,19,Male,O+,Diabetes
+P00052,10,Other,O+,None
+P00053,43,Other,B+,Asthma
+P00054,67,Female,B-,Asthma
+P00055,3,Male,AB-,Heart Disease
+P00056,53,Female,AB+,None
+P00057,78,Male,A+,None
+P00058,91,Female,O-,Heart Disease
+P00059,50,Other,A-,None
+P00060,62,Male,B+,Asthma
+P00061,57,Male,O+,None
+P00062,34,Male,B-,None
+P00063,77,Other,O+,Asthma
+P00064,26,Male,B-,Hypertension
+P00065,89,Male,O-,None
+P00066,14,Other,AB+,None
+P00067,83,Female,AB+,Heart Disease
+P00068,15,Other,B+,Heart Disease
+P00069,9,Other,O-,None
+P00070,87,Other,O+,None
+P00071,75,Female,AB-,Heart Disease
+P00072,50,Male,B+,None
+P00073,70,Other,O-,Asthma
+P00074,31,Female,AB-,Asthma
+P00075,79,Other,A-,None
+P00076,39,Male,O+,Heart Disease
+P00077,11,Male,AB+,Asthma
+P00078,95,Male,A+,Asthma
+P00079,19,Other,B-,Asthma
+P00080,51,Female,B+,None
+P00081,71,Male,B+,Heart Disease
+P00082,24,Female,B+,Hypertension
+P00083,61,Female,B+,Heart Disease
+P00084,34,Female,AB-,Asthma
+P00085,65,Female,AB+,None
+P00086,74,Female,O+,Asthma
+P00087,73,Female,B+,Hypertension
+P00088,52,Male,A+,None
+P00089,12,Male,AB+,None
+P00090,44,Other,AB+,Asthma
+P00091,78,Female,O-,None
+P00092,17,Female,AB-,None
+P00093,95,Female,A+,None
+P00094,36,Other,AB+,Heart Disease
+P00095,76,Female,AB+,Diabetes
+P00096,2,Male,A-,None
+P00097,82,Male,O-,None
+P00098,72,Male,A-,Hypertension
+P00099,93,Female,B+,None
+P00100,63,Male,A+,None
+P00101,61,Female,B-,None
+P00102,7,Other,B+,Hypertension
+P00103,20,Female,B+,Hypertension
+P00104,66,Male,O-,Diabetes
+P00105,70,Other,O-,None
+P00106,40,Other,B-,None
+P00107,16,Other,AB-,Heart Disease
+P00108,41,Male,A+,Hypertension
+P00109,40,Other,O-,None
+P00110,93,Male,A-,Hypertension
+P00111,93,Male,O+,None
+P00112,11,Male,B-,None
+P00113,63,Female,B+,None
+P00114,44,Male,B-,None
+P00115,54,Other,AB-,Asthma
+P00116,27,Male,AB-,Heart Disease
+P00117,81,Other,AB-,None
+P00118,1,Other,AB+,None
+P00119,52,Female,AB+,Heart Disease
+P00120,48,Male,A+,None
+P00121,33,Other,O-,Asthma
+P00122,14,Other,B+,Heart Disease
+P00123,20,Female,A-,Asthma
+P00124,94,Male,B-,None
+P00125,32,Female,O+,Heart Disease
+P00126,19,Female,O+,Asthma
+P00127,59,Female,O+,Asthma
+P00128,76,Other,B+,Asthma
+P00129,24,Male,O-,Heart Disease
+P00130,78,Female,AB+,Diabetes
+P00131,63,Male,B-,Heart Disease
+P00132,20,Other,O+,Diabetes
+P00133,23,Male,B+,Heart Disease
+P00134,87,Male,AB-,Heart Disease
+P00135,72,Female,AB-,Heart Disease
+P00136,95,Other,A+,None
+P00137,17,Female,A+,Asthma
+P00138,94,Other,A-,Heart Disease
+P00139,64,Male,O+,Heart Disease
+P00140,53,Female,O+,Heart Disease
+P00141,19,Male,AB+,Heart Disease
+P00142,50,Female,AB+,None
+P00143,2,Male,B+,Diabetes
+P00144,2,Male,A-,Diabetes
+P00145,64,Female,A+,Asthma
+P00146,44,Male,O-,None
+P00147,57,Male,AB-,None
+P00148,30,Female,A-,Diabetes
+P00149,26,Other,A-,None
+P00150,79,Other,AB-,None
+P00151,78,Male,AB-,Diabetes
+P00152,35,Male,B-,Hypertension
+P00153,68,Male,B+,Hypertension
+P00154,74,Male,AB-,Heart Disease
+P00155,90,Male,AB-,Diabetes
+P00156,40,Male,A-,Hypertension
+P00157,40,Other,AB-,None
+P00158,24,Other,O+,None
+P00159,82,Other,O+,Heart Disease
+P00160,75,Male,O-,Hypertension
+P00161,52,Female,B+,None
+P00162,91,Other,A+,Hypertension
+P00163,56,Other,AB-,Asthma
+P00164,48,Female,B-,Hypertension
+P00165,55,Female,B+,None
+P00166,8,Other,B+,None
+P00167,11,Female,O-,Diabetes
+P00168,25,Male,AB-,Asthma
+P00169,86,Male,B-,None
+P00170,70,Other,A+,Asthma
+P00171,11,Female,O+,Diabetes
+P00172,15,Other,B-,Asthma
+P00173,48,Other,AB+,Hypertension
+P00174,82,Male,AB-,None
+P00175,70,Other,O+,None
+P00176,45,Other,O-,Hypertension
+P00177,54,Male,O-,Hypertension
+P00178,68,Other,A+,None
+P00179,10,Female,O-,Asthma
+P00180,82,Female,A-,None
+P00181,2,Other,O+,None
+P00182,82,Female,AB+,Asthma
+P00183,89,Male,B-,None
+P00184,6,Male,B-,None
+P00185,51,Other,AB+,Hypertension
+P00186,34,Male,AB-,None
+P00187,30,Male,AB-,Heart Disease
+P00188,61,Female,O+,None
+P00189,14,Female,B-,None
+P00190,8,Male,O-,Hypertension
+P00191,30,Other,AB+,Diabetes
+P00192,87,Other,A-,Diabetes
+P00193,8,Female,A+,None
+P00194,12,Female,A-,None
+P00195,25,Female,B+,None
+P00196,17,Other,A-,Heart Disease
+P00197,9,Other,B+,None
+P00198,54,Female,AB-,Asthma
+P00199,62,Female,AB-,None
+P00200,40,Other,B-,None
+P00201,10,Male,AB-,Hypertension
+P00202,86,Other,B+,Asthma
+P00203,6,Male,AB-,None
+P00204,37,Female,B+,None
+P00205,67,Other,B-,Diabetes
+P00206,89,Male,A-,None
+P00207,82,Female,AB-,Hypertension
+P00208,94,Male,O-,None
+P00209,69,Other,A+,Diabetes
+P00210,91,Female,O-,Heart Disease
+P00211,6,Female,AB+,Heart Disease
+P00212,82,Male,A-,Asthma
+P00213,55,Female,O-,Hypertension
+P00214,13,Male,B-,None
+P00215,22,Female,B-,Asthma
+P00216,63,Other,B+,Asthma
+P00217,11,Male,B-,Heart Disease
+P00218,41,Male,B-,Heart Disease
+P00219,22,Female,B+,Heart Disease
+P00220,7,Female,O-,Asthma
+P00221,45,Female,A-,None
+P00222,68,Female,B+,Heart Disease
+P00223,49,Male,B-,None
+P00224,73,Female,A+,Hypertension
+P00225,82,Other,O-,None
+P00226,10,Female,AB-,None
+P00227,50,Other,O-,Heart Disease
+P00228,85,Other,A+,Diabetes
+P00229,92,Other,AB+,None
+P00230,33,Male,O+,None
+P00231,47,Other,B+,None
+P00232,66,Male,A+,Diabetes
+P00233,41,Male,AB+,Hypertension
+P00234,55,Other,AB+,None
+P00235,95,Other,O+,Diabetes
+P00236,6,Male,AB+,Hypertension
+P00237,20,Male,O-,None
+P00238,38,Female,A-,Hypertension
+P00239,34,Other,A+,None
+P00240,91,Male,AB-,Heart Disease
+P00241,87,Male,O-,Asthma
+P00242,83,Female,A-,Hypertension
+P00243,65,Male,A-,None
+P00244,23,Other,AB+,Diabetes
+P00245,74,Other,O+,None
+P00246,54,Other,A+,Diabetes
+P00247,13,Female,B+,Heart Disease
+P00248,63,Other,A+,None
+P00249,50,Male,AB-,None
+P00250,94,Other,AB-,None
+P00251,83,Female,AB+,Heart Disease
+P00252,78,Other,AB-,Asthma
+P00253,25,Other,O-,Hypertension
+P00254,53,Other,O+,Asthma
+P00255,63,Other,O+,None
+P00256,66,Other,A+,Asthma
+P00257,19,Male,AB-,None
+P00258,77,Male,A-,Heart Disease
+P00259,65,Other,A+,Heart Disease
+P00260,88,Female,A-,None
+P00261,61,Other,O+,None
+P00262,27,Female,O-,None
+P00263,72,Female,A-,Heart Disease
+P00264,89,Other,B-,Heart Disease
+P00265,17,Female,B+,Diabetes
+P00266,24,Other,B+,Hypertension
+P00267,58,Other,B+,Heart Disease
+P00268,10,Other,AB+,Hypertension
+P00269,34,Female,AB-,Diabetes
+P00270,47,Other,A+,Heart Disease
+P00271,5,Male,B+,None
+P00272,49,Female,B+,None
+P00273,36,Other,B-,Diabetes
+P00274,87,Male,AB+,Asthma
+P00275,8,Female,A+,Hypertension
+P00276,43,Female,B+,None
+P00277,81,Male,B+,Hypertension
+P00278,47,Male,O+,None
+P00279,95,Other,B+,None
+P00280,59,Other,O-,Diabetes
+P00281,3,Other,O+,Heart Disease
+P00282,48,Female,B+,Heart Disease
+P00283,34,Female,B+,Hypertension
+P00284,15,Other,O+,None
+P00285,28,Other,A-,None
+P00286,14,Other,B-,None
+P00287,49,Other,A-,Asthma
+P00288,56,Male,A+,Hypertension
+P00289,12,Other,B-,None
+P00290,70,Female,A+,Asthma
+P00291,26,Other,O+,Asthma
+P00292,59,Other,A-,Asthma
+P00293,34,Other,A-,None
+P00294,21,Other,O-,Diabetes
+P00295,66,Other,AB+,Heart Disease
+P00296,3,Other,O-,None
+P00297,38,Female,B+,Heart Disease
+P00298,94,Female,B-,Asthma
+P00299,9,Female,A+,Hypertension
+P00300,18,Female,O+,Asthma
+P00301,52,Male,A-,None
+P00302,93,Male,A+,Heart Disease
+P00303,6,Female,B+,Asthma
+P00304,88,Male,O-,Asthma
+P00305,25,Male,O+,Asthma
+P00306,27,Male,B+,None
+P00307,6,Female,AB-,Heart Disease
+P00308,73,Other,O+,None
+P00309,74,Female,O+,Heart Disease
+P00310,87,Other,B-,None
+P00311,60,Male,B+,None
+P00312,12,Female,O+,Hypertension
+P00313,48,Other,O-,None
+P00314,45,Female,B+,None
+P00315,7,Other,AB+,Heart Disease
+P00316,26,Male,AB+,None
+P00317,46,Male,O-,Heart Disease
+P00318,7,Female,AB-,Diabetes
+P00319,67,Female,AB+,None
+P00320,48,Female,A+,None
+P00321,72,Other,AB-,Asthma
+P00322,82,Other,B+,Heart Disease
+P00323,34,Female,AB+,None
+P00324,14,Female,AB-,None
+P00325,4,Other,B-,None
+P00326,40,Other,A+,None
+P00327,5,Female,AB+,None
+P00328,29,Other,A+,Diabetes
+P00329,32,Other,O+,None
+P00330,26,Female,A-,None
+P00331,25,Other,A-,Diabetes
+P00332,53,Female,AB-,Hypertension
+P00333,58,Male,AB-,Heart Disease
+P00334,55,Female,A-,Heart Disease
+P00335,54,Female,B-,None
+P00336,64,Female,B-,None
+P00337,48,Other,A-,Asthma
+P00338,77,Female,AB+,Asthma
+P00339,38,Female,B-,Diabetes
+P00340,3,Female,A+,Hypertension
+P00341,82,Male,AB-,Heart Disease
+P00342,11,Male,O+,None
+P00343,93,Male,A+,None
+P00344,38,Male,B+,Hypertension
+P00345,27,Female,O+,Asthma
+P00346,1,Other,A+,Diabetes
+P00347,85,Other,B-,None
+P00348,26,Female,O-,Diabetes
+P00349,12,Other,O-,None
+P00350,54,Female,A-,Asthma
+P00351,92,Other,A+,None
+P00352,3,Other,O-,Asthma
+P00353,4,Male,AB+,None
+P00354,19,Male,AB+,Heart Disease
+P00355,37,Other,A+,Diabetes
+P00356,3,Other,O-,Asthma
+P00357,73,Female,O+,Diabetes
+P00358,31,Other,A+,Hypertension
+P00359,91,Female,A-,Heart Disease
+P00360,58,Other,O-,None
+P00361,82,Other,A-,Diabetes
+P00362,65,Other,A-,None
+P00363,63,Male,A+,None
+P00364,69,Other,B+,None
+P00365,69,Female,AB-,Asthma
+P00366,9,Female,O+,Hypertension
+P00367,93,Other,A+,None
+P00368,43,Other,O-,None
+P00369,63,Male,A-,Heart Disease
+P00370,24,Other,B-,Heart Disease
+P00371,71,Male,AB+,None
+P00372,9,Female,B+,Hypertension
+P00373,6,Other,O+,None
+P00374,47,Female,AB+,None
+P00375,59,Other,B+,None
+P00376,52,Female,O+,Heart Disease
+P00377,83,Other,B+,Heart Disease
+P00378,86,Male,O+,Diabetes
+P00379,90,Other,AB-,None
+P00380,36,Female,B+,Hypertension
+P00381,20,Male,AB-,None
+P00382,13,Male,AB-,Asthma
+P00383,1,Other,A+,Hypertension
+P00384,61,Male,B-,None
+P00385,94,Male,A+,Asthma
+P00386,57,Male,A-,Hypertension
+P00387,29,Other,B-,Asthma
+P00388,22,Female,B-,None
+P00389,15,Male,AB-,Diabetes
+P00390,62,Other,A+,Diabetes
+P00391,50,Female,O+,Heart Disease
+P00392,69,Female,O-,Hypertension
+P00393,86,Other,O+,Hypertension
+P00394,60,Female,A+,None
+P00395,77,Female,O+,Diabetes
+P00396,28,Other,AB+,Diabetes
+P00397,21,Other,B+,Diabetes
+P00398,22,Male,O+,Hypertension
+P00399,17,Male,B-,Heart Disease
+P00400,42,Other,O+,None
+P00401,67,Female,A-,Hypertension
+P00402,23,Male,A-,None
+P00403,4,Other,O-,Diabetes
+P00404,11,Male,A+,Heart Disease
+P00405,73,Other,AB+,None
+P00406,24,Male,AB-,Asthma
+P00407,19,Male,B-,Heart Disease
+P00408,23,Female,O+,Heart Disease
+P00409,46,Male,A-,Asthma
+P00410,29,Female,AB-,None
+P00411,17,Other,A-,None
+P00412,40,Female,AB-,None
+P00413,46,Male,B-,None
+P00414,80,Female,AB+,Hypertension
+P00415,84,Female,B-,Hypertension
+P00416,82,Male,B-,Asthma
+P00417,89,Female,A-,None
+P00418,6,Other,A-,Hypertension
+P00419,34,Male,A-,Heart Disease
+P00420,70,Female,O+,Hypertension
+P00421,87,Female,AB-,None
+P00422,64,Other,O-,Hypertension
+P00423,39,Female,O-,Asthma
+P00424,53,Male,AB-,Diabetes
+P00425,54,Male,B-,None
+P00426,42,Female,B-,None
+P00427,47,Female,O-,Hypertension
+P00428,14,Male,A+,Diabetes
+P00429,87,Male,A-,Diabetes
+P00430,92,Female,A-,None
+P00431,8,Male,A-,Hypertension
+P00432,39,Male,AB+,Diabetes
+P00433,6,Male,A+,None
+P00434,39,Female,AB+,None
+P00435,59,Other,A+,Hypertension
+P00436,24,Female,O+,Heart Disease
+P00437,52,Female,B+,None
+P00438,90,Female,B-,None
+P00439,79,Male,A+,None
+P00440,68,Other,AB-,Hypertension
+P00441,80,Female,B-,None
+P00442,23,Female,B-,None
+P00443,64,Other,AB-,None
+P00444,88,Female,A+,None
+P00445,53,Male,A+,None
+P00446,31,Male,B+,None
+P00447,18,Female,AB-,Heart Disease
+P00448,65,Other,B+,Diabetes
+P00449,20,Other,A+,Heart Disease
+P00450,80,Other,AB+,None
+P00451,63,Male,AB+,Heart Disease
+P00452,22,Female,B+,None
+P00453,10,Other,AB-,Asthma
+P00454,27,Female,B+,Asthma
+P00455,45,Female,A-,None
+P00456,14,Male,O-,None
+P00457,84,Female,B-,None
+P00458,41,Male,O-,None
+P00459,60,Male,O-,Diabetes
+P00460,6,Female,AB+,Asthma
+P00461,27,Other,AB+,None
+P00462,68,Female,O-,Asthma
+P00463,40,Male,A+,None
+P00464,33,Male,B+,None
+P00465,82,Female,AB+,Asthma
+P00466,63,Male,B+,None
+P00467,68,Female,A-,Hypertension
+P00468,80,Male,B+,Hypertension
+P00469,52,Male,A+,Asthma
+P00470,69,Female,A-,None
+P00471,26,Female,AB-,Diabetes
+P00472,63,Other,AB-,None
+P00473,29,Other,A-,Hypertension
+P00474,34,Male,AB+,Heart Disease
+P00475,83,Male,A+,Heart Disease
+P00476,24,Male,A+,Diabetes
+P00477,61,Male,B-,Hypertension
+P00478,51,Other,B+,None
+P00479,60,Other,A-,None
+P00480,18,Male,AB-,None
+P00481,88,Female,AB+,None
+P00482,14,Female,A-,None
+P00483,59,Other,A+,Hypertension
+P00484,65,Other,O-,Hypertension
+P00485,13,Female,O-,Asthma
+P00486,44,Female,A+,None
+P00487,33,Other,B-,Diabetes
+P00488,7,Male,A+,None
+P00489,57,Male,O-,None
+P00490,82,Other,A+,None
+P00491,32,Other,A+,None
+P00492,75,Female,A+,Diabetes
+P00493,31,Other,O-,None
+P00494,63,Male,A+,None
+P00495,17,Male,B+,Hypertension
+P00496,7,Female,AB-,Diabetes
+P00497,2,Female,B+,None
+P00498,54,Other,B-,Hypertension
+P00499,85,Female,AB+,Heart Disease
+P00500,61,Other,B+,Diabetes
+P00501,77,Male,AB-,Hypertension
+P00502,64,Female,B-,None
+P00503,38,Female,O+,None
+P00504,88,Male,AB+,Asthma
+P00505,27,Other,AB+,Hypertension
+P00506,2,Female,AB+,None
+P00507,20,Other,B+,None
+P00508,50,Female,AB+,Diabetes
+P00509,63,Male,AB+,Heart Disease
+P00510,38,Male,AB-,Asthma
+P00511,90,Other,AB-,Diabetes
+P00512,77,Male,AB+,Asthma
+P00513,44,Other,B-,None
+P00514,67,Female,A-,None
+P00515,81,Female,AB-,None
+P00516,18,Male,O-,Diabetes
+P00517,18,Other,B+,Asthma
+P00518,29,Male,B-,None
+P00519,88,Other,AB-,Asthma
+P00520,48,Other,O+,None
+P00521,6,Male,O+,None
+P00522,12,Male,A-,None
+P00523,91,Male,B+,None
+P00524,6,Other,B-,Heart Disease
+P00525,28,Other,AB+,None
+P00526,26,Male,B-,Heart Disease
+P00527,51,Male,AB+,Heart Disease
+P00528,25,Female,AB+,Asthma
+P00529,64,Other,A-,None
+P00530,87,Female,A-,None
+P00531,18,Other,A+,None
+P00532,50,Female,A-,Asthma
+P00533,43,Male,AB+,Diabetes
+P00534,60,Female,A+,None
+P00535,11,Female,O-,Heart Disease
+P00536,68,Male,B-,None
+P00537,77,Male,AB+,None
+P00538,80,Other,A+,Hypertension
+P00539,74,Other,B+,Hypertension
+P00540,73,Other,A+,None
+P00541,5,Other,O-,None
+P00542,93,Female,AB+,Asthma
+P00543,85,Other,B+,Asthma
+P00544,26,Male,B+,None
+P00545,90,Other,O+,None
+P00546,1,Male,O+,Asthma
+P00547,82,Male,O-,None
+P00548,76,Female,B+,Hypertension
+P00549,49,Male,B-,Diabetes
+P00550,37,Other,A+,Diabetes
+P00551,80,Male,A-,Hypertension
+P00552,50,Other,O+,Asthma
+P00553,51,Other,AB-,Hypertension
+P00554,66,Other,A-,Asthma
+P00555,40,Other,O-,None
+P00556,36,Other,B+,None
+P00557,11,Other,O-,None
+P00558,16,Other,O-,Diabetes
+P00559,75,Male,B-,Diabetes
+P00560,17,Female,A+,Hypertension
+P00561,44,Other,A-,None
+P00562,93,Other,A-,None
+P00563,68,Male,O+,Asthma
+P00564,81,Other,B+,Asthma
+P00565,41,Female,B-,Diabetes
+P00566,70,Male,B-,None
+P00567,16,Male,O-,Asthma
+P00568,74,Other,A+,None
+P00569,95,Female,O-,Asthma
+P00570,5,Other,O-,None
+P00571,26,Male,B+,Asthma
+P00572,28,Male,O-,Heart Disease
+P00573,64,Male,A-,Asthma
+P00574,59,Female,B-,Heart Disease
+P00575,83,Female,B+,Heart Disease
+P00576,4,Female,AB+,Hypertension
+P00577,74,Other,O-,None
+P00578,1,Male,B+,Hypertension
+P00579,27,Female,A-,None
+P00580,31,Other,B-,Hypertension
+P00581,42,Other,AB-,Heart Disease
+P00582,4,Male,O-,Diabetes
+P00583,56,Other,AB+,Diabetes
+P00584,31,Other,B-,None
+P00585,67,Male,B-,Heart Disease
+P00586,36,Male,O-,Heart Disease
+P00587,44,Male,B+,None
+P00588,81,Male,B+,Diabetes
+P00589,58,Other,AB-,None
+P00590,35,Other,A+,Diabetes
+P00591,23,Female,A+,None
+P00592,71,Male,O+,Hypertension
+P00593,93,Male,A+,Asthma
+P00594,91,Female,A+,None
+P00595,89,Other,AB-,Asthma
+P00596,56,Male,O-,None
+P00597,3,Other,A-,Heart Disease
+P00598,72,Other,O-,None
+P00599,25,Other,A+,Asthma
+P00600,29,Male,B+,Hypertension
+P00601,23,Female,AB+,None
+P00602,3,Female,B+,None
+P00603,13,Female,A+,None
+P00604,19,Other,A-,Diabetes
+P00605,43,Other,O+,None
+P00606,47,Female,O-,Hypertension
+P00607,44,Male,A-,Heart Disease
+P00608,93,Female,A+,Diabetes
+P00609,55,Other,AB-,None
+P00610,76,Other,AB+,Heart Disease
+P00611,7,Other,O-,None
+P00612,58,Male,AB-,Diabetes
+P00613,65,Male,O-,None
+P00614,11,Female,O+,None
+P00615,45,Other,O-,None
+P00616,22,Other,A-,Diabetes
+P00617,11,Male,B-,Heart Disease
+P00618,50,Male,AB+,Diabetes
+P00619,64,Male,A-,Hypertension
+P00620,43,Other,AB+,Heart Disease
+P00621,48,Female,O-,Heart Disease
+P00622,83,Male,AB+,Asthma
+P00623,50,Other,AB+,None
+P00624,22,Male,A+,Diabetes
+P00625,32,Male,B+,Heart Disease
+P00626,73,Male,B-,Heart Disease
+P00627,7,Female,A+,None
+P00628,58,Other,B+,Diabetes
+P00629,42,Male,AB-,Hypertension
+P00630,59,Male,A-,Asthma
+P00631,42,Male,B-,None
+P00632,18,Male,O-,Heart Disease
+P00633,18,Female,AB-,Asthma
+P00634,21,Female,AB-,None
+P00635,77,Other,O+,Asthma
+P00636,84,Male,B-,Heart Disease
+P00637,37,Male,O-,Hypertension
+P00638,59,Other,A+,Asthma
+P00639,67,Other,AB+,None
+P00640,13,Female,A+,Asthma
+P00641,19,Other,A-,Hypertension
+P00642,91,Male,O-,None
+P00643,56,Other,AB+,None
+P00644,2,Other,B-,Heart Disease
+P00645,82,Female,A+,None
+P00646,86,Male,A-,Hypertension
+P00647,51,Female,AB+,Heart Disease
+P00648,81,Male,A-,None
+P00649,84,Female,B+,None
+P00650,45,Other,O-,Asthma
+P00651,17,Male,O-,None
+P00652,25,Male,B-,Heart Disease
+P00653,18,Other,A+,Heart Disease
+P00654,84,Female,A+,Diabetes
+P00655,45,Male,O-,None
+P00656,74,Male,AB-,Hypertension
+P00657,67,Male,A-,Heart Disease
+P00658,21,Male,B-,None
+P00659,12,Female,B+,Asthma
+P00660,72,Male,O+,None
+P00661,10,Other,A-,Asthma
+P00662,60,Other,A-,None
+P00663,43,Male,O-,Diabetes
+P00664,27,Male,O-,None
+P00665,68,Female,B-,None
+P00666,66,Male,AB-,Asthma
+P00667,27,Female,B-,Diabetes
+P00668,90,Other,B+,Diabetes
+P00669,27,Male,A+,None
+P00670,27,Female,B-,Heart Disease
+P00671,52,Other,AB+,Asthma
+P00672,19,Female,AB+,Hypertension
+P00673,48,Other,B+,None
+P00674,53,Male,AB-,None
+P00675,16,Male,A+,Diabetes
+P00676,62,Female,B+,None
+P00677,48,Other,O+,Heart Disease
+P00678,51,Other,A-,Asthma
+P00679,72,Other,O+,None
+P00680,66,Female,B-,Asthma
+P00681,64,Other,AB+,Asthma
+P00682,15,Male,O+,None
+P00683,45,Female,B+,None
+P00684,43,Male,AB-,None
+P00685,67,Male,O+,Heart Disease
+P00686,82,Other,B-,Asthma
+P00687,58,Female,B+,Asthma
+P00688,2,Male,B-,None
+P00689,44,Other,A+,Asthma
+P00690,93,Male,O+,Heart Disease
+P00691,95,Other,O-,Hypertension
+P00692,68,Other,O+,Hypertension
+P00693,85,Other,B+,Diabetes
+P00694,32,Male,O+,None
+P00695,1,Other,A+,Diabetes
+P00696,22,Other,O-,Hypertension
+P00697,26,Male,AB+,Hypertension
+P00698,92,Other,A+,Diabetes
+P00699,54,Male,O-,Asthma
+P00700,61,Female,B+,Heart Disease
+P00701,76,Female,A+,Asthma
+P00702,93,Male,AB-,None
+P00703,21,Other,AB+,Hypertension
+P00704,39,Male,A+,None
+P00705,90,Male,A+,Hypertension
+P00706,72,Other,AB+,Heart Disease
+P00707,24,Female,B+,Heart Disease
+P00708,61,Male,A-,Hypertension
+P00709,5,Other,A-,Heart Disease
+P00710,37,Other,B-,Hypertension
+P00711,4,Male,B-,None
+P00712,92,Other,B-,Hypertension
+P00713,1,Female,B+,Heart Disease
+P00714,89,Female,B+,None
+P00715,34,Male,AB-,None
+P00716,3,Female,O-,None
+P00717,61,Male,AB-,Asthma
+P00718,67,Male,B-,None
+P00719,78,Female,O-,Asthma
+P00720,72,Male,A+,Heart Disease
+P00721,73,Male,O+,None
+P00722,94,Other,AB+,Asthma
+P00723,83,Male,O-,Hypertension
+P00724,13,Female,O+,None
+P00725,15,Male,B-,Hypertension
+P00726,62,Male,A+,None
+P00727,68,Female,A-,Hypertension
+P00728,74,Male,O-,Hypertension
+P00729,20,Male,AB+,None
+P00730,51,Male,A+,Hypertension
+P00731,29,Other,B+,None
+P00732,79,Male,B+,None
+P00733,64,Female,O-,None
+P00734,22,Male,B-,None
+P00735,82,Female,O-,Hypertension
+P00736,65,Female,O-,Diabetes
+P00737,18,Female,B-,Heart Disease
+P00738,39,Female,AB+,Asthma
+P00739,8,Female,B-,None
+P00740,1,Male,A+,Asthma
+P00741,65,Female,A-,Heart Disease
+P00742,7,Other,B+,Hypertension
+P00743,8,Male,AB-,None
+P00744,2,Male,O+,None
+P00745,7,Other,A+,None
+P00746,36,Female,O-,Hypertension
+P00747,69,Female,B+,Diabetes
+P00748,73,Other,O+,Diabetes
+P00749,88,Female,O-,Asthma
+P00750,82,Female,B+,Heart Disease
+P00751,64,Female,AB-,None
+P00752,5,Female,B-,Hypertension
+P00753,79,Male,AB+,Diabetes
+P00754,27,Other,O+,None
+P00755,34,Female,AB-,None
+P00756,81,Male,A-,Asthma
+P00757,75,Female,O+,Heart Disease
+P00758,42,Male,B+,None
+P00759,27,Male,B-,None
+P00760,49,Female,A-,Diabetes
+P00761,14,Male,O+,None
+P00762,83,Other,A-,None
+P00763,32,Other,AB-,None
+P00764,3,Other,O+,None
+P00765,33,Female,O+,Asthma
+P00766,71,Other,A+,Heart Disease
+P00767,90,Female,AB+,None
+P00768,15,Other,A+,Hypertension
+P00769,59,Female,A-,Hypertension
+P00770,69,Other,B+,Hypertension
+P00771,78,Female,O+,None
+P00772,81,Other,AB+,Diabetes
+P00773,80,Female,O-,None
+P00774,26,Other,O+,Hypertension
+P00775,13,Female,AB-,None
+P00776,82,Other,A+,None
+P00777,10,Male,O+,Hypertension
+P00778,2,Male,AB+,Heart Disease
+P00779,60,Male,A+,None
+P00780,30,Female,O+,Asthma
+P00781,56,Female,A-,Hypertension
+P00782,29,Other,AB-,None
+P00783,16,Male,A-,Hypertension
+P00784,56,Other,AB-,Heart Disease
+P00785,72,Other,A+,Hypertension
+P00786,32,Other,AB+,Hypertension
+P00787,11,Other,O+,None
+P00788,82,Other,A+,None
+P00789,95,Female,O+,None
+P00790,1,Female,O-,Asthma
+P00791,59,Other,O-,Diabetes
+P00792,77,Other,B-,Heart Disease
+P00793,62,Male,O+,Heart Disease
+P00794,76,Female,B+,Diabetes
+P00795,91,Female,A+,Diabetes
+P00796,52,Male,A-,Heart Disease
+P00797,57,Female,AB+,None
+P00798,4,Male,B+,None
+P00799,57,Other,O+,Asthma
+P00800,63,Male,AB+,None
+P00801,49,Male,A-,Diabetes
+P00802,74,Male,A+,None
+P00803,47,Male,A-,Asthma
+P00804,4,Other,O-,None
+P00805,74,Male,A-,None
+P00806,42,Other,A-,None
+P00807,85,Male,B+,Hypertension
+P00808,73,Male,B+,Diabetes
+P00809,26,Female,AB-,Hypertension
+P00810,61,Other,A-,Asthma
+P00811,76,Female,B-,Hypertension
+P00812,91,Male,A+,Asthma
+P00813,10,Male,A-,None
+P00814,6,Male,A+,None
+P00815,91,Male,B-,None
+P00816,73,Other,AB+,None
+P00817,55,Male,A+,None
+P00818,51,Female,B+,None
+P00819,25,Male,A-,Hypertension
+P00820,10,Other,B+,None
+P00821,61,Female,B-,Hypertension
+P00822,7,Female,O+,None
+P00823,84,Male,B-,None
+P00824,80,Male,B-,Asthma
+P00825,6,Female,O-,Asthma
+P00826,60,Male,O-,Asthma
+P00827,90,Male,B-,Hypertension
+P00828,76,Male,AB+,None
+P00829,71,Male,O-,Asthma
+P00830,5,Female,B-,None
+P00831,3,Female,A+,None
+P00832,90,Male,A-,Heart Disease
+P00833,25,Female,AB-,Diabetes
+P00834,49,Other,AB-,None
+P00835,57,Female,O+,Diabetes
+P00836,10,Male,A+,None
+P00837,39,Male,AB+,Heart Disease
+P00838,57,Female,B+,Hypertension
+P00839,94,Female,A+,None
+P00840,81,Male,A+,Asthma
+P00841,7,Male,O+,Diabetes
+P00842,13,Male,A+,Asthma
+P00843,20,Female,B-,None
+P00844,65,Male,A+,None
+P00845,73,Male,AB-,Hypertension
+P00846,77,Male,O-,Heart Disease
+P00847,77,Other,O-,Diabetes
+P00848,18,Male,AB-,None
+P00849,36,Male,A+,None
+P00850,10,Male,A-,None
+P00851,18,Male,O-,Heart Disease
+P00852,92,Male,A-,Hypertension
+P00853,29,Female,AB-,None
+P00854,61,Female,O+,Diabetes
+P00855,73,Male,AB+,None
+P00856,29,Male,B-,Hypertension
+P00857,6,Male,AB-,None
+P00858,37,Female,A-,Hypertension
+P00859,59,Male,B-,None
+P00860,26,Female,B-,None
+P00861,89,Female,O+,None
+P00862,33,Female,O+,Hypertension
+P00863,54,Male,AB-,Diabetes
+P00864,55,Female,A+,Hypertension
+P00865,90,Male,O+,None
+P00866,58,Male,B-,None
+P00867,55,Male,A+,None
+P00868,45,Female,O-,None
+P00869,30,Male,AB-,Diabetes
+P00870,65,Male,A+,None
+P00871,20,Male,B+,Asthma
+P00872,61,Other,A+,Diabetes
+P00873,46,Female,A-,None
+P00874,55,Other,AB-,None
+P00875,26,Other,B-,Hypertension
+P00876,9,Male,B-,None
+P00877,59,Female,A+,Hypertension
+P00878,36,Other,A+,Asthma
+P00879,6,Male,B+,Diabetes
+P00880,56,Female,B+,Heart Disease
+P00881,78,Female,B+,None
+P00882,27,Female,O+,None
+P00883,36,Other,AB-,Asthma
+P00884,57,Female,A-,Diabetes
+P00885,84,Other,A-,Asthma
+P00886,39,Male,AB+,Heart Disease
+P00887,60,Other,A+,Asthma
+P00888,43,Female,B-,Diabetes
+P00889,77,Female,A-,None
+P00890,74,Male,B+,None
+P00891,49,Male,A+,Heart Disease
+P00892,3,Other,B-,Hypertension
+P00893,87,Female,B+,None
+P00894,88,Other,AB+,Heart Disease
+P00895,77,Female,B+,Heart Disease
+P00896,1,Other,AB-,None
+P00897,21,Other,O-,None
+P00898,54,Other,O+,None
+P00899,14,Other,O-,None
+P00900,79,Female,B+,Asthma
+P00901,12,Female,B-,None
+P00902,47,Female,A+,None
+P00903,46,Other,A+,None
+P00904,63,Female,AB+,None
+P00905,55,Other,AB+,None
+P00906,36,Other,AB-,None
+P00907,39,Other,B-,Asthma
+P00908,47,Male,A-,Asthma
+P00909,57,Other,A-,Asthma
+P00910,47,Female,B+,Asthma
+P00911,57,Female,AB-,None
+P00912,90,Other,AB+,None
+P00913,53,Female,O-,None
+P00914,46,Other,B+,None
+P00915,74,Male,B-,None
+P00916,31,Other,O+,Heart Disease
+P00917,86,Other,AB-,None
+P00918,83,Female,B-,Hypertension
+P00919,94,Male,B-,None
+P00920,28,Female,AB-,Asthma
+P00921,35,Male,B-,Diabetes
+P00922,50,Male,B+,None
+P00923,65,Male,A-,None
+P00924,7,Female,A-,Diabetes
+P00925,51,Female,AB-,Heart Disease
+P00926,47,Other,A-,None
+P00927,27,Male,B+,None
+P00928,86,Male,O+,None
+P00929,36,Other,B+,Asthma
+P00930,67,Male,AB+,None
+P00931,74,Female,B-,Hypertension
+P00932,78,Female,AB+,Hypertension
+P00933,8,Female,B-,Heart Disease
+P00934,49,Other,B+,None
+P00935,82,Male,A-,None
+P00936,51,Male,B+,Asthma
+P00937,43,Other,B-,Heart Disease
+P00938,10,Female,A-,Asthma
+P00939,69,Other,O-,None
+P00940,61,Female,A-,None
+P00941,94,Other,O+,None
+P00942,32,Other,O+,None
+P00943,64,Female,B+,Diabetes
+P00944,59,Female,A-,None
+P00945,43,Female,B+,Heart Disease
+P00946,53,Male,O+,Hypertension
+P00947,58,Female,B+,None
+P00948,45,Other,O+,None
+P00949,46,Other,AB-,Hypertension
+P00950,31,Female,AB+,Diabetes
+P00951,47,Female,A+,Asthma
+P00952,12,Other,A-,Hypertension
+P00953,36,Other,A-,Asthma
+P00954,76,Other,AB-,Hypertension
+P00955,66,Male,B-,Asthma
+P00956,58,Male,O+,None
+P00957,23,Other,AB-,None
+P00958,41,Male,B-,Hypertension
+P00959,3,Female,AB+,None
+P00960,6,Other,AB+,None
+P00961,51,Male,AB-,None
+P00962,18,Male,O-,Hypertension
+P00963,88,Male,A+,Diabetes
+P00964,58,Female,B-,Diabetes
+P00965,43,Male,A-,None
+P00966,87,Female,O-,None
+P00967,46,Male,AB+,Heart Disease
+P00968,81,Other,AB-,None
+P00969,86,Male,A-,Diabetes
+P00970,45,Female,O+,None
+P00971,70,Other,AB-,None
+P00972,56,Other,AB-,Hypertension
+P00973,82,Other,O-,None
+P00974,85,Male,A-,None
+P00975,80,Other,AB-,Diabetes
+P00976,82,Other,O-,Asthma
+P00977,81,Male,B+,None
+P00978,58,Female,O-,None
+P00979,70,Male,B-,Hypertension
+P00980,85,Female,O+,None
+P00981,69,Female,A+,None
+P00982,37,Female,B+,Asthma
+P00983,63,Other,A-,None
+P00984,44,Female,A-,None
+P00985,50,Other,AB+,None
+P00986,7,Other,O+,Hypertension
+P00987,24,Other,AB+,None
+P00988,2,Female,AB+,None
+P00989,79,Male,A-,None
+P00990,69,Female,B+,Heart Disease
+P00991,54,Other,A-,None
+P00992,67,Female,O+,None
+P00993,49,Male,A-,Asthma
+P00994,46,Female,AB+,Diabetes
+P00995,39,Other,A-,Hypertension
+P00996,82,Male,AB-,Hypertension
+P00997,20,Male,B-,Diabetes
+P00998,42,Female,B-,Hypertension
+P00999,93,Other,A-,Heart Disease
+P01000,26,Female,O+,Heart Disease
