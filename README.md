@@ -196,7 +196,7 @@ The project successfully established a highly scalable, secure data pipeline tha
 
 <h2 id="author--contact">👨‍💻 Author & Contact</h2>
 
-**Swayanshu Jena** *Data Engineer | B.Tech CSE Final Year Student* 
+**Swayanshu Jena-** *Data Analyst | B.Tech CSE Final Year Student* 
 
 📧 **Email:** swayanshu.j00@gmail.com
 
